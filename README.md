@@ -1,7 +1,7 @@
 # Python - Simple_parsers
 
 
-Python_org_events_parser - Tracks upcoming events from python.org main page.
+<i>Python_org_events_parser</i> - Tracks upcoming events from python.org main page.
 
-Tag_count_parser - Counts all HTML tags and their respective attributes on a page.
+<i>Tag_count_parser</i> - Counts all HTML tags and their respective attributes on a page.
 
